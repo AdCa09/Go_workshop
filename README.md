@@ -16,6 +16,10 @@ Voici un aperçu des fichiers inclus dans ce workshop :
 8. **`8.conditions.md`** - Conditions if/else.
 9. **`9.boucles.md`** - Boucle for.
 
+## 📂 Solutions
+
+Le fichier solution est là pour vous aider avec les exercices si ceux-ci vous posent des problèmes, l'objectif étant bien sûr de faire le maximum sans s'aider de celui-ci.
+
 ## 🚀 Installation
 
 1. **Clonez le dépôt :**
