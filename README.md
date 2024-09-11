@@ -1,28 +1,28 @@
-# 🛠️ Go Workshop - Apprendre le Langage Go 🚀
+# 🛠️ Go Workshop - Learn the Go Language 🚀
 
-Bienvenue dans le dépôt du workshop sur le langage Go ! Ce repository vous guidera à travers les concepts fondamentaux du langage Go à travers plusieurs fichiers de tutoriels et exercices, ceci n'est qu'une partie de ce que Go peux faire, le repository pourrait être mis à jour dans le future pour alimenter son contenu. 
+Welcome to the repository for the Go language workshop! This repository will guide you through the fundamental concepts of the Go language with several tutorial files and exercises. This is only a part of what Go can do; the repository may be updated in the future to expand its content.
 
-## 📂 Structure du Repository
+## 📂 Repository Structure
 
-Voici un aperçu des fichiers inclus dans ce workshop :
+Here is an overview of the files included in this workshop:
 
-1. **`1.introduction.md`** - Introduction au langage Go et à son environnement.
-2. **`2.installations.md`** - Instructions pour installer Go et configurer votre environnement de développement.
-3. **`3.bases.md`** - Concepts de base du langage Go.
-4. **`4.variables.md`** - Gestion des variables en Go.
-5. **`5.types-de-donnees.md`** - Types de données disponibles en Go.
-6. **`6.fonctions.md`** - Déclaration et utilisation des fonctions en Go.
-7. **`7.packages.md`** - Les packages en Go.
-8. **`8.conditions.md`** - Conditions if/else.
-9. **`9.boucles.md`** - Boucle for.
+1. **`1.introduction.md`** - Introduction to the Go language and its environment.
+2. **`2.installations.md`** - Instructions for installing Go and setting up your development environment.
+3. **`3.basics.md`** - Basic concepts of the Go language.
+4. **`4.variables.md`** - Managing variables in Go.
+5. **`5.data-types.md`** - Data types available in Go.
+6. **`6.functions.md`** - Declaring and using functions in Go.
+7. **`7.packages.md`** - Packages in Go.
+8. **`8.conditions.md`** - If/else conditions.
+9. **`9.loops.md`** - For loop.
 
 ## 📂 Solutions
 
-Le fichier solution est là pour vous aider avec les exercices si ceux-ci vous posent des problèmes, l'objectif étant bien sûr de faire le maximum sans s'aider de celui-ci.
+The solution file is here to help you with the exercises if you encounter any difficulties. However, the goal is to try and solve as much as possible without relying on it.
 
 ## 🚀 Installation
 
-1. **Clonez le dépôt :**
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/AdCa09/Go_workshop
